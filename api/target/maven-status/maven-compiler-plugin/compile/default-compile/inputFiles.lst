@@ -1,0 +1,14 @@
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/mail/Mail.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/assignees/AssigneeRepository.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/Application.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/toDos/ToDo.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/assignees/Assignee.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/csv/CsvController.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/assignees/AssigneeController.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/csv/CsvExportService.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/toDos/ToDoDto.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/toDos/ToDoService.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/toDos/ToDoRepository.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/csv/CsvHelper.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/assignees/AssigneeService.java
+/Users/marie/Hyp/repo047/api/src/main/java/de/unistuttgart/iste/ese/api/toDos/ToDoController.java

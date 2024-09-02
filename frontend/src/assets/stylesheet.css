@@ -1,0 +1,43 @@
+#assignees {
+    text-align: center;
+    margin-top: 60px;
+}
+#filter-input {
+    border: none;
+    border-bottom: 1px solid black;
+    transition: border-bottom 0.3s ease-in-out;
+}
+#filter-input:focus {
+    transform: translateY(-3px);
+    border-bottom: 0px solid transparent;
+    box-shadow: 0 0 0 2px lightgray;
+    outline: none;
+}
+thead, tbody, tfoot, tr, td, th {
+    text-align: left;
+}
+h1, h3 {
+    text-align: center;
+}
+.home label {
+    margin-right: 10px;
+}
+.information, .about, .body{
+    text-align: center;
+}
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    color: #2c3e50;
+}
+
+.logo {
+    height: 35px;
+    margin: 0 3px;
+}
+
+.main {
+    padding: 10px 20px;
+}
+#nav{
+    background-color:#828BBC;
+}
